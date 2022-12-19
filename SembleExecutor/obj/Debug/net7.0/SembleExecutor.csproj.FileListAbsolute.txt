@@ -1,0 +1,15 @@
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\bin\Debug\net7.0\SembleExecutor.exe
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\bin\Debug\net7.0\SembleExecutor.deps.json
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\bin\Debug\net7.0\SembleExecutor.runtimeconfig.json
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\bin\Debug\net7.0\SembleExecutor.dll
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\bin\Debug\net7.0\SembleExecutor.pdb
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.csproj.AssemblyReference.cache
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.AssemblyInfoInputs.cache
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.AssemblyInfo.cs
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.csproj.CoreCompileInputs.cache
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.dll
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\refint\SembleExecutor.dll
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.pdb
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\SembleExecutor.genruntimeconfig.cache
+C:\RISHI\Work\QundiSoft\Projects\Programming Languages\Semble Executor\Git-Repo\SembleExecutor\SembleExecutor\obj\Debug\net7.0\ref\SembleExecutor.dll
